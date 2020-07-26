@@ -9,6 +9,11 @@
  
  - **rev_per_week.sql**
  
- Delivr's first full month of operations was June 2018. At launch, the Marketing team ran an ad campaign on popular food channels on TV, with the number of ads increasing each week through the end of the month. The Head of Marketing asks you to help her assess that campaign's success.
+Delivr's first full month of operations was June 2018. See the revenue per week for each week
+in their first month, and check whether there's any consistent growth in revenue.
+
+
+ 
+
 
 
